@@ -1,1 +1,1 @@
-# actived
+# active
